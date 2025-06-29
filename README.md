@@ -23,5 +23,4 @@ Each clip is annotated with a grammar proficiency score based on a Likert-scale 
 
 ---
 
-## 🔧 Project Structure
 
